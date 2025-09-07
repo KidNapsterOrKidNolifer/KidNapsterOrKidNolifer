@@ -42,7 +42,7 @@
 
 <div align="center">
   
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Santos&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api?username=L3Santos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=KidNapsterOrKidNolifer&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=KidNapsterOrKidNolifer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
